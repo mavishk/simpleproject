@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos
 MAINTAINER abhishek.shukla@gmail.com
 RUN yum install httpd -y \
  zip \
